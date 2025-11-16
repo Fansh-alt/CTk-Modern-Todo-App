@@ -33,6 +33,7 @@ Together, they ensure a smooth UI experience on **Windows**, **macOS**, and **Li
 | **Database** | SQLite3 |
 | **Core Libraries** | Tkinter, CustomTkinter, SQLite3 |
 
+
 ## ⚙️ Features
 
 - 📝 Add, edit and delete tasks  
